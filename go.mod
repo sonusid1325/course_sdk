@@ -1,4 +1,4 @@
-module gemini
+module course_sdk
 
 go 1.24.1
 
